@@ -9,4 +9,4 @@ const COLORBAR_MAP = {
   "J": [["imm[20]", 1], ["imm[10:1]", 10], ["imm[11]", 1], ["imm[19:12]", 8], ["rd", 5], ["opcode", 7]]
 };
 
-export default { getColorbarObj };
+export { getColorbarObj };

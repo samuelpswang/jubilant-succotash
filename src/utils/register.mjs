@@ -263,4 +263,4 @@ const REGVAL_MAP = {
   }
 };
 
-export default { ali2obj, val2obj };
+export { ali2obj, val2obj };
